@@ -1,0 +1,9 @@
+爱情:
+The top three location: 美国, 英国, 日本
+Percentage of the total number of films in this category: 29.93, 17.01, 12.93
+动作:
+The top three location: 美国, 日本, 英国
+Percentage of the total number of films in this category: 38.33, 31.67, 11.67
+青春:
+The top three location: 美国, 日本, 英国
+Percentage of the total number of films in this category: 30.12, 18.07, 15.66
